@@ -27,7 +27,7 @@ Este repositorio contiene la solución al Trabajo Práctico N°5 - Bases de Dato
 ## Instrucciones de uso
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/TP5_BasesDeDatos.git
+    git clone https://github.com/flopipeydro/TP5_InfoMed.git
     ```
 
 2. Navegar a las consultas SQL y ejecutarlas en tu sistema de gestión de bases de datos favorito.
