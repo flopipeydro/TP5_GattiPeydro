@@ -18,7 +18,7 @@ Este repositorio contiene la solución al Trabajo Práctico N°5 - Bases de Dato
 ## Institución
 - **ITBA** (Instituto Tecnológico de Buenos Aires)
 
-![Logo ITBA](https://www.itba.edu.ar/images/logos/logoitba.png)
+<img src="/ITBALOGO.png" alt="logo-itba" style="width:300px;"/>
 
 ## Estructura del repositorio
 - `/sql/`: Contiene todas las consultas SQL resueltas.
