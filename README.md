@@ -30,4 +30,4 @@ Este repositorio contiene la solución al Trabajo Práctico N°5 - Bases de Dato
     git clone https://github.com/flopipeydro/TP5_InfoMed.git
     ```
 
-2. Navegar a las consultas SQL y ejecutarlas en tu sistema de gestión de bases de datos favorito.
+2. Navegar a las consultas SQL segun el numero de consulta.
