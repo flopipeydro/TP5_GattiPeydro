@@ -76,13 +76,13 @@ A continuación presentamos las entidades con sus atributos y relaciones:
 
 A partir de la definición de las entidades con sus atributos y las relaciones que mencionamos anteriormente armamos el diagrama entidad-relación que se puede ver a continuación:
 
-![Diagrama entidad-relación](Imagenes/diagrama_entidad_relacion.png)
+<img src="Imagenes/diagrama_entidad_relacion.png" style="width:800px;"/>
 
 3. **Armar el Modelo relacional de la base de datos dada.**
 
 En base a las entidades y relaciones del ítem pasado, armamos el modelo relacional de la base de datos.
 
-![Modelo relacional](Imagenes/modelo_relacional.png)
+<img src="Imagenes/modelo_relacional.png" style="width:800px;"/>
 
 4. **¿Considera que la base de datos está normalizada? En caso que no lo esté, ¿cómo podría hacerlo?**
 
