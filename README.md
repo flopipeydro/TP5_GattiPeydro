@@ -30,4 +30,8 @@ Este repositorio contiene la solución al Trabajo Práctico N°5 - Bases de Dato
     git clone https://github.com/flopipeydro/TP5_InfoMed.git
     ```
 
-2. Navegar a las consultas SQL segun el numero de consulta.
+2. Navegar a las consultas SQL según el número de consulta.
+
+## Recursos adicionales
+- **Tablero de Reporte**: [Ver tablero en Looker Studio](https://lookerstudio.google.com/reporting/170c0e25-9d0b-41ef-8b64-47a8e79b8e07)
+- **Google Sheets**: [Ver Google Sheets](https://docs.google.com/spreadsheets/d/1RJOdlBIKXv6xt3eR9m_SndaEaineifWz0YJs701bNvs/edit?usp=sharing)
