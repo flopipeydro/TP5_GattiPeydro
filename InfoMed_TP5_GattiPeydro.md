@@ -92,7 +92,7 @@ La normalización es el proceso de estructurar una base de datos de acuerdo con 
 
 Una vez obtenido el modelo relacional, nos basamos en dichas tablas para armar las busquedas requeridas en esta seccion.
 
-###Consignas:
+### Consignas:
 1. Cuando se realizan consultas sobre la tabla paciente agrupando por ciudad los tiempos de respuesta son demasiado largos. Proponer mediante una query SQL una solución a este problema.
 
 ```
